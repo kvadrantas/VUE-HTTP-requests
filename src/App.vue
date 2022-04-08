@@ -1,6 +1,8 @@
 <template>
+<div>
   <learning-survey></learning-survey>
   <user-experiences></user-experiences>
+</div>
 </template>
 
 <script>
